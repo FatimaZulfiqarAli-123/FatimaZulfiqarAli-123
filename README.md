@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-**AI & NLP Enthusiast| Arabic NLP | Multilingual AI**
+**AI & NLP Enthusiast | Arabic NLP | Multilingual AI**
 
 <br/>
 

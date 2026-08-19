@@ -243,7 +243,7 @@ Interactive chatbot powered by **Ollama and Streamlit**, enabling conversational
 
 ---
 
-## 📊 Other Machine Learning Projects
+## 📊 Machine Learning Projects
 
 - 📈 [Stock Prediction & Backtesting](https://github.com/FatimaZulfiqarAli-123/stock_prediction_ml)
 - 📧 [Email Spam Detection](https://github.com/FatimaZulfiqarAli-123/Email_Spam_Detection)
@@ -268,20 +268,6 @@ Interactive chatbot powered by **Ollama and Streamlit**, enabling conversational
 - 🌸 [Iris ML Project](https://github.com/FatimaZulfiqarAli-123/iris_ml_project)
 - 📊 [Sentiment Data Analysis](https://github.com/FatimaZulfiqarAli-123/Sentiment_Data_Analysis)
 - 📈 [Data Analytics Project](https://github.com/FatimaZulfiqarAli-123/Data_Analytics_Project)
-
----
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-zulfiqar-ali-728269237/)
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=W8HXNQ8AAAAJ&hl=en)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatimaZulfiqarAli-123)
-
-</div>
 
 ---
 

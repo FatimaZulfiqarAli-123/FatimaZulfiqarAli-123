@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-> *AI and NLP researcher with a strong interest in multilingual language technologies, large language models, responsible AI, and research-driven machine learning.*
+> *AI and NLP researcher with a strong interest in Arabic NLP, multilingual language technologies, large language models, responsible AI, and research-driven machine learning.*
 
 - 🤖 Passionate about **Artificial Intelligence and Natural Language Processing**
 - 🧠 Interested in **Large Language Models, Multilingual NLP, and Responsible AI**

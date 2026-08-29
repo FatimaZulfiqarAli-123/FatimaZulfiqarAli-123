@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 > *AI and NLP researcher with a strong interest in Arabic NLP, multilingual language technologies, large language models, responsible AI, and research-driven machine learning.*
 
@@ -46,58 +46,67 @@
 | **Arabic NLP** | Arabic Dialects, Dialect Classification, Language Models |
 | **Large Language Models** | LLMs, Prompt Engineering, Generative AI |
 | **Responsible AI** | Bias, Fairness & Model Reliability |
-
-
-</div>
-
----
-
-
-## 🛠️ Technical Skills
+<br/>
 
 <div align="center">
+  
+### ⚡ Core Stack
 
-### 🐍 Programming Languages
+*Technologies I use confidently across AI, machine learning, data science, and software development:*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-0A101F?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-0A101F?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Scikit--learn-0A101F?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-0A101F?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0A101F?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SQL-0A101F?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL"/>
+<img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
 
 ### 🤖 AI / ML / NLP
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+*Frameworks and technologies used in machine learning, NLP, and generative AI projects:*
+
+<img src="https://img.shields.io/badge/HuggingFace-0A101F?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Transformers-0A101F?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Transformers"/>
+<img src="https://img.shields.io/badge/RAG-0A101F?style=flat-square&logoColor=915EFF" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLMs-0A101F?style=flat-square&logoColor=22D3EE" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Ollama-0A101F?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Whisper-0A101F?style=flat-square&logoColor=915EFF" alt="Whisper"/>
 
 ### 📊 Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+*Libraries used for data analysis, scientific computing, visualization, and experimentation:*
 
-### 🧠 Generative AI & NLP
-
-![Transformers](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge)
+<img src="https://img.shields.io/badge/NumPy-0A101F?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-0A101F?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas"/>
+<img src="https://img.shields.io/badge/SciPy-0A101F?style=flat-square&logo=scipy&logoColor=8CAAE6" alt="SciPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-0A101F?style=flat-square&logo=python&logoColor=22D3EE" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-0A101F?style=flat-square&logo=python&logoColor=4C72B0" alt="Seaborn"/>
 
 ### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+*Development tools, databases, environments, and platforms used across projects:*
+
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/VS_Code-0A101F?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
+
+### 🧩 Programming
+
+*Additional programming languages and web technologies used in academic and software development projects:*
+
+<img src="https://img.shields.io/badge/C-0A101F?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0A101F?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/PHP-0A101F?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -242,36 +251,20 @@ Interactive chatbot powered by **Ollama and Streamlit**, enabling conversational
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 Machine Learning Projects
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-light.svg" />
+</picture>
+</div>
 
-- 📈 [Stock Prediction & Backtesting](https://github.com/FatimaZulfiqarAli-123/stock_prediction_ml)
-- 📧 [Email Spam Detection](https://github.com/FatimaZulfiqarAli-123/Email_Spam_Detection)
-- 📰 [Fake News Detector](https://github.com/FatimaZulfiqarAli-123/Fake_News_Detector)
-- 🏠 [House Price Prediction](https://github.com/FatimaZulfiqarAli-123/House-Price-Prediction)
-- 💳 [Loan Approval Prediction](https://github.com/FatimaZulfiqarAli-123/Loan_Approval_SVM)
-- 📱 [Customer Churn Analysis](https://github.com/FatimaZulfiqarAli-123/Customer_Churn_Analysis)
-- 🔬 [A/B Testing Project](https://github.com/FatimaZulfiqarAli-123/ab_testing_project)
-- 📊 [Competitor Pricing Analysis](https://github.com/FatimaZulfiqarAli-123/competitor_pricing_analysis)
-- 👥 [LMS Churn Prediction](https://github.com/FatimaZulfiqarAli-123/lms_churn_prediction)
-- 📊 [Social Media Analytics](https://github.com/FatimaZulfiqarAli-123/social_media_analytics)
-
----
-
-## 🧪 Other Projects
-
-- 📄 [AI Resume Screening & Candidate Ranking](https://github.com/FatimaZulfiqarAli-123/resume_screening_automation)
-- 🩸 [Blood Donation Society](https://github.com/FatimaZulfiqarAli-123/Blood_Donation_Society)
-- 🧹 [Data Cleaner Tool](https://github.com/FatimaZulfiqarAli-123/Data_Cleaner_Tool)
-- 🔢 [MNIST Digit Recognition](https://github.com/FatimaZulfiqarAli-123/Mnist_Digit_Recognition)
-- 🌐 [Smart Translator](https://github.com/FatimaZulfiqarAli-123/smart-translator)
-- 🌸 [Iris ML Project](https://github.com/FatimaZulfiqarAli-123/iris_ml_project)
-- 📊 [Sentiment Data Analysis](https://github.com/FatimaZulfiqarAli-123/Sentiment_Data_Analysis)
-- 📈 [Data Analytics Project](https://github.com/FatimaZulfiqarAli-123/Data_Analytics_Project)
-
----
-
+<br/>
 <div align="center">
 
 ### 🌱 *Researching. Building. Learning. Innovating.*

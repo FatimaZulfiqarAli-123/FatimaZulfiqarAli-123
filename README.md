@@ -30,7 +30,6 @@
 - 🤖 Passionate about **Artificial Intelligence and Natural Language Processing**
 - 🧠 Interested in **Large Language Models, Multilingual NLP, and Responsible AI**
 - 🔬 Experienced in developing **NLP, RAG, classification, and deep learning systems**
-- 📚 Researcher working on **AI/ML, NLP, Arabic dialects, and AI applications**
 - 💻 Experienced with **Python, PyTorch, TensorFlow, Hugging Face, Scikit-learn, and LLM tools**
 - 🌱 Continuously exploring **Generative AI, Transformers, RAG, and multilingual language models**
 

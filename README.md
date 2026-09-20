@@ -253,6 +253,21 @@ Interactive chatbot powered by **Ollama and Streamlit**, enabling conversational
 
 <br/>
 
+
+<div align="center">
+
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaZulfiqarAli-123&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🐍 Contribution Graph
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
 <picture>
@@ -263,6 +278,29 @@ Interactive chatbot powered by **Ollama and Streamlit**, enabling conversational
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-light.svg" />
 </picture>
 </div>
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+`Generative AI` • `Large Language Models` • `RAG` • `Transformers` • `NLP` • `Deep Learning` • `MLOps`
+
+</div>
+
+---
+
+## 🌱 My Approach
+<div align="center">
+
+> **Learn → Build → Experiment → Evaluate → Improve**
+
+</div>
+
+I enjoy turning ideas into practical AI systems, experimenting with different approaches, evaluating model performance, and continuously improving my technical skills.
+
+---
+
 
 <br/>
 <div align="center">
